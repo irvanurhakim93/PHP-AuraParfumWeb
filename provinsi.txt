@@ -1,0 +1,27 @@
+Aceh       				
+Banten
+Bali
+Bengkulu
+DI Yogyakarta
+DKI Jakarta
+Gorontalo
+Jawa Barat
+Jawa Tengah
+Jawa Timur
+Jambi
+Kep Riau
+Kep Bangka Belitung
+Nusa Tenggara Barat
+Nusa Tenggara Timur
+Lampung
+Maluku
+Maluku Utara
+Sumatera Utara
+Sumatera Barat</option>
+Sulawesi Utara</option>
+Sulawesi Barat</option>
+Sulawesi Tengah</option>
+Sulawesi Tenggara</option>
+Sulawesi Selatan</option>
+Papua Barat</option>
+Papua</option>
